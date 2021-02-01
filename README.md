@@ -8,6 +8,13 @@ Hello Everyone, this is going to be a smoothbrain tutorial for connecting to the
 
 This repository is under the terms and conditions of Github, any unauthorized user will be subject to the aforementioned conditional clauses concerning liability.
 
+### Connections
+IPv4: `167.99.156.97`
+IPv6: `2604:a880:400:d0::17c6:b001`
+OS: `Ubuntu 18.04.5 LTS`
+
+------
+
 ## Setup
  1. Login to your account with your username. `ssh USERNAME@166.99.156.97`
 
@@ -18,6 +25,7 @@ This repository is under the terms and conditions of Github, any unauthorized us
  4. Do not be alarmed this is not *your* terminal this is the virtual machines terminal. So any changes made to this will affect the virtual machines terminal. Notice, It is better than yours.
 
 -----
+
 ## Know your Terminal
 
 Terminal: ZSH/OhMyZsh
@@ -36,6 +44,7 @@ Terminal Plugins:
 If you want any additional functionality let me know.
 
 -----
+
 ## Terminal Fonts
 
 If you want to customize your terminal follow the part with your OS. 
@@ -59,4 +68,6 @@ Recommended Additional Types: [Nerd Font Link](https://github.com/ryanoasis/nerd
 
 -----
 
+## Google Drive Links
 
+Our Usernames: https://docs.google.com/spreadsheets/d/1DkBFobu6eFpR1wmxLsyyFMH10SOG78SkqG2RkItRvfo/edit?usp=sharing
