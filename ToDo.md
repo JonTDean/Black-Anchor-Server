@@ -99,5 +99,7 @@ For each user I need to:
 
 
 * RustUp installs both Rust and Cargo
+
 [Rust](https://www.rust-lang.org/tools/install)
+
 [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
