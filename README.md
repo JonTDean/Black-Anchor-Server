@@ -9,8 +9,11 @@ Hello Everyone, this is going to be a smoothbrain tutorial for connecting to the
 This repository is under the terms and conditions of Github, any unauthorized user will be subject to the aforementioned conditional clauses concerning liability.
 
 ### Connections
+
 IPv4: `167.99.156.97`
+
 IPv6: `2604:a880:400:d0::17c6:b001`
+
 OS: `Ubuntu 18.04.5 LTS`
 
 ------
