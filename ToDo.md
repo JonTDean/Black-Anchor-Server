@@ -81,3 +81,23 @@ For each user I need to:
         </tr>
     </tbody>
 </table>
+
+## Packages to Install for Each User
+
+1. [ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+2. [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh)
+3. [Powerlevel10k](https://github.com/romkatv/powerlevel10k#get-started)
+4. [DotNet](https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#1804-)
+5. [Python 3.x](https://docs.python-guide.org/starting/install3/linux/)
+6. [RustUp](https://rustup.rs/)*
+7. [Ruby](https://www.ruby-lang.org/en/documentation/installation/#apt)
+8. [NPM](https://github.com/nodesource/distributions/blob/master/README.md#deb)
+9. [MySql](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04)
+10. [Brew](https://docs.brew.sh/Homebrew-on-Linux)
+11. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+12. [Github CLI](https://github.com/cli/cli)
+
+
+* RustUp installs both Rust and Cargo
+[Rust](https://www.rust-lang.org/tools/install)
+[Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
