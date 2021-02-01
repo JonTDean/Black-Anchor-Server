@@ -99,10 +99,11 @@ For each user I need to:
 - [x] 13. [Docker]()
 
 
-* RustUp installs both Rust and Cargo, must be done by a per user basis.
+
+* * RustUp installs both Rust and Cargo, must be done by a per user basis.*
 
 [Rust](https://www.rust-lang.org/tools/install)
 
 [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 
-** Items denoted by ** must be installed with a per user basis.
+* Items denoted by ** must be installed with a per user basis.*
