@@ -18,6 +18,24 @@ This repository is under the terms and conditions of Github, any unauthorized us
  4. Do not be alarmed this is not *your* terminal this is the virtual machines terminal. So any changes made to this will affect the virtual machines terminal. Notice, It is better than yours.
 
 -----
+## Know your Terminal
+
+Terminal: ZSH/OhMyZsh
+
+Terminal Theme: Powerlevel10k
+
+Terminal Plugins:
+ - Git CLI/Autocompletion
+ - Github CLI/Autocompletion
+ - DotNet CLI/Autocompletion
+ - Rust CLI/Autocompletion
+ - Python 3.x CLI/Autocompletion
+ - Cargo CLI/Autocompletion
+ - Docker CLI/Autocompletion
+
+If you want any additional functionality let me know.
+
+-----
 ## Terminal Fonts
 
 If you want to customize your terminal follow the part with your OS. 
@@ -40,3 +58,5 @@ Recommended Additional Types: [Nerd Font Link](https://github.com/ryanoasis/nerd
 3. Open your terminal. Right click the top right of your terminal, go to Font and set the Font to Hack, or whatever the name of the downloaded font is called.
 
 -----
+
+
