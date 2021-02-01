@@ -100,10 +100,10 @@ For each user I need to:
 
 
 ### Annotations
- 1. If \* RustUp installs both Rust and Cargo, must be done by a per user basis.
+ 1. \* RustUp installs both Rust and Cargo, must be done by a per user basis.
 
   - [Rust](https://www.rust-lang.org/tools/install)
 
   - [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 
-2. If Items denoted by \*\* must be installed with a per user basis.
+2. \*\* must be installed with a per user basis.
